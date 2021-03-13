@@ -29,3 +29,4 @@ In the case that you want to download the dataset, use the following link:
 https://drive.google.com/file/d/1K6QScXlR01RbWqycT9ixafkQQIxH8MhW/view
 
 ![CSE576_Portforlio.pdf](https://github.com/pnut2357/CliCR_Research/CSE576_Portforlio.pdf)
+<img src="./CSE576_Portforlio.pdf" alt="Drawing" style="width: 500px;"/>
