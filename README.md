@@ -28,4 +28,4 @@ $ pip install -r requirements.txt
 In the case that you want to download the dataset, use the following link:
 https://drive.google.com/file/d/1K6QScXlR01RbWqycT9ixafkQQIxH8MhW/view
 
-[CSE576_Portforlio.pdf](https://github.com/pnut2357/Intro_Data_Visualization/files/6135374/CSE576_Portforlio.pdf)
+![CSE576_Portforlio.pdf](https://github.com/pnut2357/Intro_Data_Visualization/files/6135374/CSE576_Portforlio.pdf)
