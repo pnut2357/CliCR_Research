@@ -28,5 +28,10 @@ $ pip install -r requirements.txt
 In the case that you want to download the dataset, use the following link:
 https://drive.google.com/file/d/1K6QScXlR01RbWqycT9ixafkQQIxH8MhW/view
 
-![CSE576_Portforlio.pdf](https://github.com/pnut2357/CliCR_Research/CSE576_Portforlio.pdf)
-<img src="./CSE576_Portforlio.pdf" alt="Drawing" style="width: 500px;"/>
+![0001](https://user-images.githubusercontent.com/20247211/111041892-c75f3b80-83f7-11eb-9be9-7a891bfba1cd.jpg)
+
+![0002](https://user-images.githubusercontent.com/20247211/111041891-c6c6a500-83f7-11eb-94d0-2854036290ff.jpg)
+
+![0003](https://user-images.githubusercontent.com/20247211/111041890-c5957800-83f7-11eb-87f5-bc1fc09dc383.jpg)
+
+![0004](https://user-images.githubusercontent.com/20247211/111041885-c3331e00-83f7-11eb-8b78-f56a60b5136e.jpg)
